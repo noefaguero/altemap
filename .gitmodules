@@ -1,0 +1,3 @@
+[submodule "user-services"]
+	path = user-services
+	url = https://github.com/noefaguero/altemap-user-services.git
