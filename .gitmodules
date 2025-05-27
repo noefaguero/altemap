@@ -1,9 +1,12 @@
 [submodule "gateway"]
-	path = gateway
+	path = api/gateway
 	url = https://github.com/noefaguero/altemap-gateway.git
 [submodule "user-services"]
-	path = user-services
+	path = api/user-services
 	url = https://github.com/noefaguero/altemap-user-services.git
 [submodule "content-services"]
-	path = content-services
+	path = api/content-services
 	url = https://github.com/noefaguero/altemap-content-services.git
+[submodule "website"]
+	path = website
+	url = https://github.com/noefaguero/altemap-website.git
