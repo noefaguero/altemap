@@ -1,3 +1,4 @@
-private
 *.env
+!example.env
+
 .DS_Store
